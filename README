@@ -1,0 +1,19 @@
+EdgeStateMachine
+================
+
+This is the ActiveModel::StateMachine code extracted from edge Rails to 
+be used as a Rails plugin.
+
+Tested with Rails 2.3
+
+Example
+=======
+
+The state machine included in Rails 3 is mostly aasm with different names. So take
+a look at the original
+
+  http://github.com/rubyist/aasm
+
+and the stuff in Rails 3:
+
+  http://blog.envylabs.com/2009/08/the-rails-state-machine/
